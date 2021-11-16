@@ -12,7 +12,7 @@ Partez à la découverte de ces projets :
 
 
 # Discover all our projects 
-The urbanLab organization includes all the devices present in the showroom of [Erasme] (https://www.erasme.org/-Accueil-Erasme-), innovation laboratory of the metropolis of Lyon.
+The urbanLab organization includes all the devices present in the showroom of [Erasme](https://www.erasme.org/-Accueil-Erasme-), innovation laboratory of the metropolis of Lyon.
 But many large-scale or partnership projects have their own organization.
 Discover these projects:
 
