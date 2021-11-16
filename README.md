@@ -11,7 +11,7 @@ Partez à la découverte de ces projets :
 * [Erasme](https://github.com/erasme) : cette organisation reprend différentes librairies mobilisées dans des dispositifs d'Erasme
 
 
-# Discover all our projects (version française below)
+# Discover all our projects 
 The urbanLab organization includes all the devices present in the showroom of [Erasme] (https://www.erasme.org/-Accueil-Erasme-), innovation laboratory of the metropolis of Lyon.
 But many large-scale or partnership projects have their own organization.
 Discover these projects:
