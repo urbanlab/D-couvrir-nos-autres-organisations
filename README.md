@@ -16,9 +16,9 @@ The urbanLab organization includes all the devices present in the showroom of [E
 But many large-scale or partnership projects have their own organization.
 Discover these projects:
 
-* [Interpretable] (https://github.com/interpretable): Interpretable increases the dialogue between a doctor and a family who does not speak French with pictograms, thus facilitating the medical consultation
-* [DatAtlas] (https://github.com/datatlas-erasme/): DatAtlas allows everyone to create their cartographic representations by mobilizing data from different sources
-* [DatAgora] (https://github.com/datagora-erasme): DatAgora is a metropolis / university of Lyon system aimed at enhancing data of general interest. Many prototypes for data analysis and visualization are to be discovered.
-* [Digital cultural classes] (https://github.com/ccnum): these projects allow teachers and students to work with digital tools in project mode with external speakers, to carry out in class and in a collaborative way with other colleges, inspiring productions, in the fields of Culture, Science or Industry.
-* [Triomix] (https://github.com/triomix/): Triomix was an event aimed at developing new solutions to encourage waste sorting. All digital solutions can be found in this repository.
-* [Erasme] (https://github.com/erasme): this organization includes different libraries mobilized in Erasmus systems
+* [Interpretable](https://github.com/interpretable): Interpretable increases the dialogue between a doctor and a family who does not speak French with pictograms, thus facilitating the medical consultation
+* [DatAtlas](https://github.com/datatlas-erasme/): DatAtlas allows everyone to create their cartographic representations by mobilizing data from different sources
+* [DatAgora](https://github.com/datagora-erasme): DatAgora is a metropolis / university of Lyon system aimed at enhancing data of general interest. Many prototypes for data analysis and visualization are to be discovered.
+* [Digital cultural classes](https://github.com/ccnum): these projects allow teachers and students to work with digital tools in project mode with external speakers, to carry out in class and in a collaborative way with other colleges, inspiring productions, in the fields of Culture, Science or Industry.
+* [Triomix](https://github.com/triomix/): Triomix was an event aimed at developing new solutions to encourage waste sorting. All digital solutions can be found in this repository.
+* [Erasme](https://github.com/erasme): this organization includes different libraries mobilized in Erasmus systems
